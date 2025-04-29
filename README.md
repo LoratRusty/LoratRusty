@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Estudiante de Ing. en Sistemas 12.º Trimestre en la Universidad Bicentenaria de Aragua<br>Venezuela <br>Programador Backend
+Ing. en Sistemas egresado de la Universidad Bicentenaria de Aragua en Venezuela<br>Analista Programador
 
 
 ## 🌐 Redes Sociales:
