@@ -1,7 +1,7 @@
 # 💫 Sobre mí:
-**Ing. José De Sousa** — Ingeniero en Sistemas egresado de la Universidad Bicentenaria de Aragua (Venezuela).<br>
-Desarrollador Backend / Analista Programador. Construyo herramientas backend que resuelven problemas reales: e‑commerce, sistemas de gestión académica y utilidades en uso en infraestructura de fibra óptica.<br>
-🔭 Enfoque: **Backend · Infraestructura · Redes** — Laravel · PHP · Python
+**Ing. José De Sousa** - Ingeniero en Sistemas egresado de la Universidad Bicentenaria de Aragua (Venezuela).<br>
+Desarrollador Backend / Analista Programador. Construyo herramientas backend que resuelven problemas reales.<br>
+🔭 Enfoque: **Backend · Infraestructura · Redes** - Laravel · PHP · Python
 
 
 ## 🌐 Redes Sociales:
